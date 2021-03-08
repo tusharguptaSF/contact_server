@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Kohli",
+      "email": "virt@icc.com",
+      "mobile": 9999911111
+    },
+    {
+      "id": 2,
+      "name": "Rahul",
+      "email": "rahl@icc.com",
+      "mobile": 9999922222
+    },
+    {
+      "id": 3,
+      "name": "Bumrah",
+      "email": "bumr@icc.com",
+      "mobile": 9999933333
+    },
+    {
+      "id": 4,
+      "name": "Chahal",
+      "email": "chal@icc.com",
+      "mobile": 9999944444
+    },
+    {
+      "name": "Gayle",
+      "email": "gayle@gmail.com",
+      "mobile": "2342334",
+      "id": 5
+    },
+    {
+      "name": "Sharma",
+      "email": "rohit@gmail.com",
+      "mobile": "35345",
+      "id": 6
+    }
+  ]
+}
